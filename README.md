@@ -14,3 +14,6 @@ For example:
 
 ## Requirements
 It is necessary to create an html element with id="contextmenu"
+
+## Dependence
+jquery - library lattest version
